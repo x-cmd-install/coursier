@@ -1,0 +1,63 @@
+about:
+  description: Pure Scala Artifact Fetching
+  license: Apache-2.0
+  homepage: https://get-coursier.io
+  head: 54f2c3f
+  archived: false
+  latestVersion: nightly
+  collectedAt: 2026-09-01T05:03:47Z
+timeline:
+  created: 2015-06-16
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-03
+popularity:
+  star: 2135
+  watcher: 52
+  fork: 334
+  release: 209
+  contributor: 156
+  pullRequest: 553
+  issue: 1201
+language:
+  Scala: 2500547
+  Java: 336637
+  Roff: 214748
+  Batchfile: 13544
+  Shell: 11091
+  HTML: 2843
+  JavaScript: 839
+  Dockerfile: 291
+totalLine: 3080540
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 1
+    mergedPR: 31
+    openPR: 4
+    closedIssue: 0
+    openIssue: 0
+    commit: 33
+  last90d:
+    since: 2026-06-03
+    release: 2
+    mergedPR: 97
+    openPR: 17
+    closedIssue: 1
+    openIssue: 7
+    commit: 140
+  last180d:
+    since: 2026-03-05
+    release: 4
+    mergedPR: 156
+    openPR: 36
+    closedIssue: 6
+    openIssue: 13
+    commit: 257
+  last360d:
+    since: 2025-09-06
+    release: 9
+    mergedPR: 192
+    openPR: 42
+    closedIssue: 21
+    openIssue: 19
+    commit: 309
