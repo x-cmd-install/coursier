@@ -5,7 +5,7 @@ about:
   head: 954d3b8
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-08T02:38:59Z
+  collectedAt: 2026-09-08T05:27:39Z
 timeline:
   created: 2015-06-16
   lastCommit: 2026-09-07
@@ -86,7 +86,7 @@ total:
   commit: 5418
 ---
 path: /home/runner/.x-repo/github.com/coursier/coursier
-collectedAt: 2026-09-08T02:39:10Z
+collectedAt: 2026-09-08T05:27:51Z
 loc:
   Scala:
     code: 77363
