@@ -1,0 +1,507 @@
+- repo: aur
+  srcname: coursier
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.24
+  origversion: 2.1.24-1
+  status: newest
+  summary: Pure Scala Artifact Fetching
+  maintainers:
+    - 02m@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: coursier-bin
+  binname: coursier-bin
+  visiblename: coursier-bin
+  version: 2.1.24
+  origversion: 2.1.24-1
+  status: newest
+  summary: Pure Scala Artifact Fetching
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - Apache-2.0
+- repo: freebsd
+  srcname: devel/coursier
+  binname: coursier
+  visiblename: devel/coursier
+  version: 2.1.24
+  origversion: 2.1.24_2
+  status: newest
+  summary: Pure Scala Artifact Fetching
+  maintainers:
+    - freebsd-ports@jan0sch.de
+  categories:
+    - devel
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.14
+  origversion: 2.1.14-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: gentoo
+  srcname: dev-java/coursier-bin
+  visiblename: dev-java/coursier-bin
+  version: 2.1.14
+  origversion: null
+  status: legacy
+  summary: Java/Scala artifact fetching, bundling and deploying
+  maintainers:
+    - flow@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-java
+- repo: gentoo
+  srcname: dev-java/coursier-bin
+  visiblename: dev-java/coursier-bin
+  version: 2.1.24
+  origversion: null
+  status: newest
+  summary: Java/Scala artifact fetching, bundling and deploying
+  maintainers:
+    - flow@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-java
+- repo: homebrew
+  srcname: coursier
+  visiblename: coursier
+  version: 2.1.24
+  origversion: null
+  status: newest
+  summary: Pure Scala Artifact Fetching
+- repo: liguros_stable
+  srcname: dev-java/coursier-bin
+  visiblename: dev-java/coursier-bin
+  version: 2.1.14
+  origversion: null
+  status: legacy
+  summary: Java/Scala artifact fetching, bundling and deploying
+  maintainers:
+    - flow@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-java
+- repo: liguros_stable
+  srcname: dev-java/coursier-bin
+  visiblename: dev-java/coursier-bin
+  version: 2.1.24
+  origversion: null
+  status: newest
+  summary: Java/Scala artifact fetching, bundling and deploying
+  maintainers:
+    - flow@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-java
+- repo: liguros_develop
+  srcname: dev-java/coursier-bin
+  visiblename: dev-java/coursier-bin
+  version: 2.1.24
+  origversion: null
+  status: newest
+  summary: Java/Scala artifact fetching, bundling and deploying
+  maintainers:
+    - flow@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-java
+- repo: liguros_develop
+  srcname: dev-java/coursier-bin
+  visiblename: dev-java/coursier-bin
+  version: 2.1.14
+  origversion: null
+  status: legacy
+  summary: Java/Scala artifact fetching, bundling and deploying
+  maintainers:
+    - flow@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-java
+- repo: nix_stable_24_05
+  srcname: coursier
+  visiblename: coursier
+  version: 2.1.10
+  origversion: null
+  status: outdated
+  summary: Scala library to fetch dependencies from Maven / Ivy repositories
+  maintainers:
+    - adelbertc@gmail.com
+    - tim@nequissimus.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: coursier
+  visiblename: coursier
+  version: 2.1.14
+  origversion: null
+  status: outdated
+  summary: Scala library to fetch dependencies from Maven / Ivy repositories
+  maintainers:
+    - adelbertc@gmail.com
+    - tim@nequissimus.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: coursier
+  visiblename: coursier
+  version: 2.1.24
+  origversion: null
+  status: newest
+  summary: Scala library to fetch dependencies from Maven / Ivy repositories
+  maintainers:
+    - adelbertc@gmail.com
+    - tim@nequissimus.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: coursier
+  visiblename: coursier
+  version: 2.1.24
+  origversion: null
+  status: newest
+  summary: Scala library to fetch dependencies from Maven / Ivy repositories
+  maintainers:
+    - adelbertc@gmail.com
+    - tim@nequissimus.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: coursier
+  visiblename: coursier
+  version: 2.1.24
+  origversion: null
+  status: newest
+  summary: Scala library to fetch dependencies from Maven / Ivy repositories
+  maintainers:
+    - adelbertc@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: coursier
+  visiblename: coursier
+  version: 2.1.24
+  origversion: null
+  status: newest
+  summary: Scala library to fetch dependencies from Maven / Ivy repositories
+  maintainers:
+    - adelbertc@gmail.com
+    - agilesteel@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.25-M26
+  origversion: null
+  status: untrusted
+  licenses:
+    - Apache-2.0
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.24
+  origversion: 2.1.24-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.23
+  origversion: 2.1.23-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.22
+  origversion: 2.1.22-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.21
+  origversion: 2.1.21-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.20
+  origversion: 2.1.20-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.19
+  origversion: 2.1.19-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.18
+  origversion: 2.1.18-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.17
+  origversion: 2.1.17-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.16
+  origversion: 2.1.16-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.15
+  origversion: 2.1.15-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.13
+  origversion: 2.1.13-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.12
+  origversion: 2.1.12-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.11
+  origversion: 2.1.11-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.10
+  origversion: 2.1.10-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.9
+  origversion: 2.1.9-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.8
+  origversion: 2.1.8-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.7
+  origversion: 2.1.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.5
+  origversion: 2.1.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.4
+  origversion: 2.1.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.3
+  origversion: 2.1.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.2
+  origversion: 2.1.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.1
+  origversion: 2.1.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.0-RC6
+  origversion: 2.1.0-RC6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.0-RC5
+  origversion: 2.1.0-RC5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.0-RC4
+  origversion: 2.1.0-RC4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.0-RC3
+  origversion: 2.1.0-RC3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.0-RC2
+  origversion: 2.1.0-RC2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.0-RC1
+  origversion: 2.1.0-RC1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.0-M7
+  origversion: 2.1.0-M7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.0-M6
+  origversion: 2.1.0-M6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.0-M5
+  origversion: 2.1.0-M5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.1.0
+  origversion: 2.1.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: coursier
+  visiblename: coursier
+  version: 2.0.16-200-ge888c6dea
+  origversion: 2.0.16-200-ge888c6dea-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
