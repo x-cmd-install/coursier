@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly"
   latestRelease: "nightly"
   latestPrerelease: "v2.1.25-M26"
-  collectedAt: 2026-09-10T21:31:19Z
+  collectedAt: 2026-09-10T22:19:43Z
 timeline:
   created: 2015-06-16
   lastCommit: 2026-09-10
@@ -90,7 +90,7 @@ total:
   commit: 5449
 ---
 path: /home/runner/.x-repo/github.com/coursier/coursier
-collectedAt: 2026-09-10T21:31:33Z
+collectedAt: 2026-09-10T22:20:04Z
 loc:
   Scala:
     code: 79735
