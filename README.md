@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 62 | 2 | 0 | 1 | 91 |
-| last60d | 2026-07-15 | 1 | 90 | 5 | 1 | 3 | 133 |
-| 90d | 2026-06-15 | 2 | 104 | 7 | 1 | 8 | 164 |
-| last180d | 2026-03-17 | 3 | 196 | 20 | 5 | 13 | 304 |
-| 360d | 2025-09-18 | 9 | 241 | 22 | 23 | 16 | 371 |
-| last720d | 2024-09-23 | 38 | 515 | 43 | 65 | 40 | 1072 |
+| 30d | 2026-08-15 | 0 | 61 | 2 | 0 | 1 | 88 |
+| last60d | 2026-07-16 | 1 | 90 | 5 | 1 | 3 | 114 |
+| 90d | 2026-06-16 | 2 | 102 | 5 | 1 | 6 | 145 |
+| last180d | 2026-03-18 | 3 | 189 | 18 | 5 | 13 | 293 |
+| 360d | 2025-09-19 | 9 | 240 | 22 | 23 | 16 | 369 |
+| last720d | 2024-09-24 | 38 | 515 | 43 | 65 | 40 | 1070 |
 
 ## Release assets
 
@@ -83,15 +83,6 @@ Lowest-scoring checks:
 | [cs-x86_64-pc-win32-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.24/cs-x86_64-pc-win32-sdk.zip) | 20.9 MiB | `native/win/x64` |
 | [cs-x86_64-pc-win32.zip](https://github.com/coursier/coursier/releases/download/v2.1.24/cs-x86_64-pc-win32.zip) | 21.5 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **51** distros on [repology.org](https://repology.org/project/coursier). **12** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.1.24` | ✅ latest |
-| Nix unstable | `2.1.24` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `coursier` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +92,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:29:41Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:43:59Z._
