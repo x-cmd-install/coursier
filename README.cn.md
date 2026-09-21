@@ -26,13 +26,13 @@ x install coursier
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **4.3 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 2/8 approved changesets -- score normalized to 2
+- **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install coursier
 
 ## 流行度
 
-- **Star**: 2,137 · **Fork**: 334 · **开放 issue**: 1,204 · **贡献者**: 161
+- **Star**: 2,138 · **Fork**: 334 · **开放 issue**: 1,204 · **贡献者**: 161
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install coursier
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 70 | 3 | 0 | 3 | 142 |
-| last60d | 2026-07-22 | 2 | 96 | 4 | 2 | 4 | 175 |
-| 90d | 2026-06-22 | 2 | 114 | 4 | 2 | 6 | 209 |
-| last180d | 2026-03-24 | 4 | 201 | 9 | 5 | 13 | 357 |
-| 360d | 2025-09-25 | 10 | 263 | 15 | 25 | 16 | 433 |
-| last720d | 2024-09-30 | 39 | 539 | 28 | 68 | 36 | 1140 |
+| 30d | 2026-08-22 | 1 | 70 | 3 | 0 | 3 | 132 |
+| last60d | 2026-07-23 | 2 | 96 | 4 | 2 | 4 | 160 |
+| 90d | 2026-06-23 | 2 | 114 | 4 | 2 | 6 | 196 |
+| last180d | 2026-03-25 | 4 | 199 | 9 | 5 | 13 | 351 |
+| 360d | 2025-09-26 | 10 | 263 | 15 | 25 | 16 | 424 |
+| last720d | 2024-10-01 | 39 | 539 | 28 | 68 | 36 | 1140 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ coursier 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260920.yml` · 2026-09-20T05:51:02Z._
+_数据快照: `data/card/260921.yml` · 2026-09-21T05:43:26Z._
