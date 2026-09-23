@@ -4,7 +4,7 @@
 
 Pure Scala Artifact Fetching
 
-[![x-cmd/install — coursier Code Quality Monitoring Repo Card](https://repo.x-cmd.io/coursier.svg?lang=zh)](https://x-cmd.com/install/coursier)
+[![x-cmd/install — coursier Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/coursier.svg?lang=zh)](https://x-cmd.com/install/coursier)
 
 ## 安装
 
@@ -52,18 +52,18 @@ x install coursier
 
 ## 累计统计
 
-- **发布数**: 210 · **已合并 PR**: 2085 · **开放 PR**: 42 · **已关闭 issue**: 821 · **开放 issue**: 384 · **提交数**: 5522
+- **发布数**: 210 · **已合并 PR**: 2085 · **开放 PR**: 50 · **已关闭 issue**: 821 · **开放 issue**: 384 · **提交数**: 5522
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 68 | 2 | 0 | 4 | 133 |
-| last60d | 2026-07-24 | 2 | 93 | 3 | 2 | 5 | 161 |
-| 90d | 2026-06-24 | 2 | 115 | 3 | 2 | 7 | 197 |
-| last180d | 2026-03-26 | 4 | 198 | 8 | 5 | 14 | 352 |
-| 360d | 2025-09-27 | 10 | 264 | 14 | 25 | 17 | 425 |
-| last720d | 2024-10-02 | 39 | 540 | 27 | 68 | 37 | 1141 |
+| 30d | 2026-08-24 | 1 | 68 | 10 | 0 | 4 | 133 |
+| last60d | 2026-07-25 | 2 | 93 | 11 | 2 | 5 | 161 |
+| 90d | 2026-06-25 | 2 | 115 | 11 | 2 | 7 | 197 |
+| last180d | 2026-03-27 | 4 | 198 | 16 | 5 | 14 | 352 |
+| 360d | 2025-09-28 | 10 | 264 | 22 | 25 | 17 | 425 |
+| last720d | 2024-10-03 | 39 | 540 | 35 | 68 | 37 | 1141 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ coursier 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:46:28Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:42:26Z._

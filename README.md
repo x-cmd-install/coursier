@@ -4,7 +4,7 @@
 
 Pure Scala Artifact Fetching
 
-[![x-cmd/install — coursier Code Quality Monitoring Repo Card](https://repo.x-cmd.io/coursier.svg)](https://x-cmd.com/install/coursier)
+[![x-cmd/install — coursier Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/coursier.svg)](https://x-cmd.com/install/coursier)
 
 ## Install
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 210 · **Merged PRs**: 2085 · **Open PRs**: 42 · **Closed issues**: 821 · **Open issues**: 384 · **Commits**: 5522
+- **Releases**: 210 · **Merged PRs**: 2085 · **Open PRs**: 50 · **Closed issues**: 821 · **Open issues**: 384 · **Commits**: 5522
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 68 | 2 | 0 | 4 | 133 |
-| last60d | 2026-07-24 | 2 | 93 | 3 | 2 | 5 | 161 |
-| 90d | 2026-06-24 | 2 | 115 | 3 | 2 | 7 | 197 |
-| last180d | 2026-03-26 | 4 | 198 | 8 | 5 | 14 | 352 |
-| 360d | 2025-09-27 | 10 | 264 | 14 | 25 | 17 | 425 |
-| last720d | 2024-10-02 | 39 | 540 | 27 | 68 | 37 | 1141 |
+| 30d | 2026-08-24 | 1 | 68 | 10 | 0 | 4 | 133 |
+| last60d | 2026-07-25 | 2 | 93 | 11 | 2 | 5 | 161 |
+| 90d | 2026-06-25 | 2 | 115 | 11 | 2 | 7 | 197 |
+| last180d | 2026-03-27 | 4 | 198 | 16 | 5 | 14 | 352 |
+| 360d | 2025-09-28 | 10 | 264 | 22 | 25 | 17 | 425 |
+| last720d | 2024-10-03 | 39 | 540 | 35 | 68 | 37 | 1141 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:46:27Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:42:25Z._
