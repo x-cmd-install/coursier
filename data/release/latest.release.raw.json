@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 232500,
       "digest": "sha256:8be36418507c94f652a8631a8f79712b4a88f99c974fdb0046c911a7d131e719",
-      "download_count": 510,
+      "download_count": 649,
       "created_at": "2026-09-17T16:18:11Z",
       "updated_at": "2026-09-17T16:20:07Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/coursier"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 62052136,
       "digest": "sha256:26652e89e3476097a8046ccc914215214e8d46eaefd8336de9ad82b9521655c2",
-      "download_count": 447,
+      "download_count": 586,
       "created_at": "2026-09-17T16:46:39Z",
       "updated_at": "2026-09-17T16:46:45Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/coursier.jar"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 28835719,
       "digest": "sha256:3c58092df9b0cc832b426662e7229da7387e1bf36e515f678e5348cadf6727e7",
-      "download_count": 35,
+      "download_count": 40,
       "created_at": "2026-09-17T18:06:38Z",
       "updated_at": "2026-09-17T18:06:41Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-apple-darwin-sdk.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 28738859,
       "digest": "sha256:43a485b1bc5c8d13a4614b5a59211b6612d62b38b9b4166d6bddbdefb4ace4de",
-      "download_count": 683,
+      "download_count": 986,
       "created_at": "2026-09-17T18:06:41Z",
       "updated_at": "2026-09-17T18:06:43Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-apple-darwin.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 28297099,
       "digest": "sha256:268e731623ad78fc1f25544a8a930751edafbed609d20f0e05220ea0b6a11883",
-      "download_count": 11,
+      "download_count": 26,
       "created_at": "2026-09-17T18:06:46Z",
       "updated_at": "2026-09-17T18:06:47Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-pc-linux-static.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 28998985,
       "digest": "sha256:70497acb15233a4342efa9f4f2ddb6b345f36dc12372a24abc304709effbc0b9",
-      "download_count": 1386,
+      "download_count": 2024,
       "created_at": "2026-09-17T18:06:47Z",
       "updated_at": "2026-09-17T18:06:49Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-pc-linux.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 111360400,
       "digest": "sha256:61c98c3b7038e97880b29ca8446b590e21ac04c5a9ac52a6455f13c027446111",
-      "download_count": 18,
+      "download_count": 26,
       "created_at": "2026-09-17T18:07:09Z",
       "updated_at": "2026-09-17T18:07:31Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-pc-win32-jvm.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 28770235,
       "digest": "sha256:99e59ed3222a85d4d9ba64df890770b21bf37a3f0dfc039b99028c18f3322c9a",
-      "download_count": 192,
+      "download_count": 298,
       "created_at": "2026-09-17T18:08:17Z",
       "updated_at": "2026-09-17T18:08:19Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-apple-darwin.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 29701082,
       "digest": "sha256:55f2eab7231be969b4f03b0cb0270168c3320e297352ae217ae47d2c5223b35f",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-09-17T18:08:20Z",
       "updated_at": "2026-09-17T18:08:21Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux-compat.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 29676393,
       "digest": "sha256:e369d25b42c0096fee99e0c492961fdd0f7d954fb4c5a626d834ce9a897d57ae",
-      "download_count": 470,
+      "download_count": 586,
       "created_at": "2026-09-17T18:08:22Z",
       "updated_at": "2026-09-17T18:08:24Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux-container.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 114319235,
       "digest": "sha256:3fb701731cb9f464f3d81b67b70af3d5f98b12793f4cd00e658040ae1c8d5c9f",
-      "download_count": 44,
+      "download_count": 50,
       "created_at": "2026-09-17T18:08:42Z",
       "updated_at": "2026-09-17T18:08:51Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux-jvm.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 29706983,
       "digest": "sha256:ee571f5d69b903dbbe33048e17b1e9959a1a053be58698bf9b3f15b825e49d95",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-17T18:09:10Z",
       "updated_at": "2026-09-17T18:09:13Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux-sdk.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 29075527,
       "digest": "sha256:2d834754c96c1c2a83e2152a2fdaeb5deba63437a808e2351144112502794ad4",
-      "download_count": 56,
+      "download_count": 83,
       "created_at": "2026-09-17T18:09:13Z",
       "updated_at": "2026-09-17T18:09:15Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux-static.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 29706456,
       "digest": "sha256:415fa0e9514dcffd521eca13dbf05bddaf3f542795faec728021defcaa25abdf",
-      "download_count": 15314,
+      "download_count": 22912,
       "created_at": "2026-09-17T18:09:15Z",
       "updated_at": "2026-09-17T18:09:16Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 32318482,
       "digest": "sha256:35fa5c65b2439ffb3609cf699e6a89a7d5d8e0eb794b2ce51005d96f9efd5242",
-      "download_count": 956,
+      "download_count": 1335,
       "created_at": "2026-09-17T18:09:18Z",
       "updated_at": "2026-09-17T18:09:20Z",
       "browser_download_url": "https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-win32.zip"
@@ -762,8 +762,8 @@
   "body": "_Release is on-going, release notes to be added soon afterwards_",
   "reactions": {
     "url": "https://api.github.com/repos/coursier/coursier/releases/389837861/reactions",
-    "total_count": 5,
-    "+1": 5,
+    "total_count": 6,
+    "+1": 6,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
