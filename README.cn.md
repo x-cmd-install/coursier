@@ -14,11 +14,11 @@ x install coursier
 
 ## 代码洞察
 
-合计: **116,028** 行代码（覆盖前 5 种语言、共 **902** 个文件）。
+合计: **116,293** 行代码（覆盖前 5 种语言、共 **904** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Scala | 83,497 | 4,181 | 12,562 | 720 |
+| Scala | 83,762 | 4,205 | 12,621 | 722 |
 | Json | 23,284 | 0 | 0 | 71 |
 | Java | 7,886 | 840 | 1,721 | 102 |
 | Batch | 399 | 3 | 81 | 3 |
@@ -42,8 +42,8 @@ x install coursier
 
 ## 发布
 
-- **最新版本**: `v2.1.25` (2026-09-16)
-- **最近提交**: 2026-09-29
+- **最新版本**: `v2.1.26` (2026-09-30)
+- **最近提交**: 2026-09-30
 - **Release 含资产**: 20 个
 
 ## 流行度
@@ -52,43 +52,43 @@ x install coursier
 
 ## 累计统计
 
-- **发布数**: 210 · **已合并 PR**: 2096 · **开放 PR**: 44 · **已关闭 issue**: 825 · **开放 issue**: 381 · **提交数**: 5535
+- **发布数**: 211 · **已合并 PR**: 2104 · **开放 PR**: 45 · **已关闭 issue**: 826 · **开放 issue**: 380 · **提交数**: 5546
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 64 | 4 | 3 | 2 | 121 |
-| last60d | 2026-08-01 | 2 | 99 | 4 | 3 | 2 | 164 |
-| 90d | 2026-07-02 | 2 | 123 | 5 | 5 | 4 | 207 |
-| last180d | 2026-04-03 | 4 | 204 | 8 | 8 | 10 | 358 |
-| 360d | 2025-10-05 | 9 | 275 | 16 | 27 | 14 | 437 |
-| last720d | 2024-10-10 | 38 | 547 | 29 | 71 | 34 | 1142 |
+| 30d | 2026-09-01 | 2 | 71 | 5 | 3 | 2 | 131 |
+| last60d | 2026-08-02 | 3 | 106 | 5 | 3 | 2 | 174 |
+| 90d | 2026-07-03 | 3 | 131 | 6 | 6 | 3 | 217 |
+| last180d | 2026-04-04 | 5 | 212 | 9 | 9 | 9 | 368 |
+| 360d | 2025-10-06 | 10 | 283 | 17 | 28 | 13 | 447 |
+| last720d | 2024-10-11 | 39 | 554 | 30 | 72 | 33 | 1152 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [coursier](https://github.com/coursier/coursier/releases/download/v2.1.25/coursier) | 227.1 KiB | `other` |
-| [coursier.bat](https://github.com/coursier/coursier/releases/download/v2.1.25/coursier.bat) | 227.1 KiB | `other` |
-| [coursier.jar](https://github.com/coursier/coursier/releases/download/v2.1.25/coursier.jar) | 59.2 MiB | `other` |
-| [cs-aarch64-apple-darwin-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-apple-darwin-sdk.zip) | 27.5 MiB | `native/darwin/arm64` |
-| [cs-aarch64-apple-darwin.gz](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-apple-darwin.gz) | 27.4 MiB | `native/darwin/arm64` |
-| [cs-aarch64-pc-linux-container.gz](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-pc-linux-container.gz) | 27.5 MiB | `native/linux/arm64` |
-| [cs-aarch64-pc-linux-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-pc-linux-sdk.zip) | 27.7 MiB | `native/linux/arm64` |
-| [cs-aarch64-pc-linux-static.gz](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-pc-linux-static.gz) | 27.0 MiB | `native/linux/arm64` |
-| [cs-aarch64-pc-linux.gz](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-pc-linux.gz) | 27.7 MiB | `native/linux/arm64` |
-| [cs-aarch64-pc-win32-jvm.zip](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-aarch64-pc-win32-jvm.zip) | 106.2 MiB | `native/win/arm64` |
-| [cs-x86_64-apple-darwin-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-apple-darwin-sdk.zip) | 27.5 MiB | `native/darwin/x64` |
-| [cs-x86_64-apple-darwin.gz](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-apple-darwin.gz) | 27.4 MiB | `native/darwin/x64` |
-| [cs-x86_64-pc-linux-compat.gz](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux-compat.gz) | 28.3 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-linux-container.gz](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux-container.gz) | 28.3 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-linux-jvm.tar.gz](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux-jvm.tar.gz) | 109.0 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-linux-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux-sdk.zip) | 28.3 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-linux-static.gz](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux-static.gz) | 27.7 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-linux.gz](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-linux.gz) | 28.3 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-win32-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-win32-sdk.zip) | 30.0 MiB | `native/win/x64` |
-| [cs-x86_64-pc-win32.zip](https://github.com/coursier/coursier/releases/download/v2.1.25/cs-x86_64-pc-win32.zip) | 30.8 MiB | `native/win/x64` |
+| [coursier](https://github.com/coursier/coursier/releases/download/v2.1.26/coursier) | 227.0 KiB | `other` |
+| [coursier.bat](https://github.com/coursier/coursier/releases/download/v2.1.26/coursier.bat) | 227.0 KiB | `other` |
+| [coursier.jar](https://github.com/coursier/coursier/releases/download/v2.1.26/coursier.jar) | 52.0 MiB | `other` |
+| [cs-aarch64-apple-darwin-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-apple-darwin-sdk.zip) | 28.0 MiB | `native/darwin/arm64` |
+| [cs-aarch64-apple-darwin.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-apple-darwin.gz) | 27.9 MiB | `native/darwin/arm64` |
+| [cs-aarch64-pc-linux-container.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-pc-linux-container.gz) | 28.1 MiB | `native/linux/arm64` |
+| [cs-aarch64-pc-linux-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-pc-linux-sdk.zip) | 28.1 MiB | `native/linux/arm64` |
+| [cs-aarch64-pc-linux-static.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-pc-linux-static.gz) | 27.5 MiB | `native/linux/arm64` |
+| [cs-aarch64-pc-linux.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-pc-linux.gz) | 28.1 MiB | `native/linux/arm64` |
+| [cs-aarch64-pc-win32-jvm.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-pc-win32-jvm.zip) | 101.5 MiB | `native/win/arm64` |
+| [cs-x86_64-apple-darwin-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-apple-darwin-sdk.zip) | 28.1 MiB | `native/darwin/x64` |
+| [cs-x86_64-apple-darwin.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-apple-darwin.gz) | 28.0 MiB | `native/darwin/x64` |
+| [cs-x86_64-pc-linux-compat.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux-compat.gz) | 28.8 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-linux-container.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux-container.gz) | 28.7 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-linux-jvm.tar.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux-jvm.tar.gz) | 104.4 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-linux-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux-sdk.zip) | 28.9 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-linux-static.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux-static.gz) | 28.1 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-linux.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux.gz) | 28.9 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-win32-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-win32-sdk.zip) | 30.5 MiB | `native/win/x64` |
+| [cs-x86_64-pc-win32.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-win32.zip) | 31.4 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -99,4 +99,4 @@ coursier 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T06:18:41Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T06:29:04Z._
