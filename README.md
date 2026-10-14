@@ -26,11 +26,11 @@ Total: **116,830** lines of code across **906** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.2 / 10**
+Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/25 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 2/22 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 2 | 43 | 19 | 4 | 1 | 41 |
-| last60d | 2026-08-14 | 2 | 107 | 19 | 4 | 2 | 177 |
-| 90d | 2026-07-15 | 3 | 137 | 20 | 7 | 2 | 223 |
-| last180d | 2026-04-16 | 5 | 219 | 23 | 10 | 9 | 372 |
-| 360d | 2025-10-18 | 10 | 290 | 31 | 29 | 13 | 453 |
-| last720d | 2024-10-23 | 39 | 555 | 43 | 72 | 33 | 1143 |
+| 30d | 2026-09-14 | 2 | 40 | 19 | 4 | 1 | 41 |
+| last60d | 2026-08-15 | 2 | 106 | 19 | 4 | 2 | 177 |
+| 90d | 2026-07-16 | 3 | 137 | 20 | 7 | 2 | 223 |
+| last180d | 2026-04-17 | 5 | 219 | 23 | 10 | 9 | 372 |
+| 360d | 2025-10-19 | 10 | 290 | 31 | 29 | 13 | 453 |
+| last720d | 2024-10-24 | 39 | 547 | 43 | 72 | 33 | 1138 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:39:14Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:30:39Z._
