@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,137 · **Forks**: 333 · **Open issues**: 1,208 · **Contributors**: 161
+- **Stars**: 2,138 · **Forks**: 333 · **Open issues**: 1,208 · **Contributors**: 161
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 51 | 9 | 2 | 2 | 49 |
-| last60d | 2026-08-20 | 2 | 124 | 10 | 4 | 3 | 197 |
-| 90d | 2026-07-21 | 3 | 151 | 11 | 7 | 3 | 222 |
-| last180d | 2026-04-22 | 5 | 241 | 14 | 9 | 10 | 396 |
-| 360d | 2025-10-24 | 10 | 313 | 22 | 29 | 14 | 478 |
-| last720d | 2024-10-29 | 39 | 557 | 33 | 71 | 33 | 1125 |
+| 30d | 2026-09-20 | 1 | 51 | 9 | 2 | 2 | 49 |
+| last60d | 2026-08-21 | 2 | 123 | 10 | 4 | 3 | 197 |
+| 90d | 2026-07-22 | 3 | 149 | 11 | 7 | 3 | 222 |
+| last180d | 2026-04-23 | 5 | 241 | 14 | 9 | 9 | 396 |
+| 360d | 2025-10-25 | 10 | 313 | 22 | 29 | 14 | 478 |
+| last720d | 2024-10-30 | 39 | 557 | 33 | 71 | 33 | 1112 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:14:26Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:28:54Z._
