@@ -14,23 +14,23 @@ x install coursier
 
 ## Code insight
 
-Total: **119,195** lines of code across **921** files in the top 5 languages.
+Total: **120,265** lines of code across **928** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 86,211 | 4,525 | 12,926 | 738 |
+| Scala | 87,276 | 4,690 | 13,085 | 745 |
 | Json | 23,631 | 0 | 0 | 72 |
-| Java | 7,992 | 880 | 1,731 | 102 |
+| Java | 7,997 | 888 | 1,732 | 102 |
 | Batch | 399 | 3 | 81 | 3 |
 | JavaScript | 382 | 23 | 57 | 6 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4.1 / 10**
+Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/22 approved changesets -- score normalized to 0
+- **Code-Review** (4/10) — Found 12/28 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.26` (2026-09-30)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 2,138 · **Forks**: 334 · **Open issues**: 1,208 · **Contributors**: 161
+- **Stars**: 2,138 · **Forks**: 335 · **Open issues**: 1,208 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2152 · **Open PRs**: 57 · **Closed issues**: 829 · **Open issues**: 379 · **Commits**: 5598
+- **Releases**: 211 · **Merged PRs**: 2163 · **Open PRs**: 49 · **Closed issues**: 829 · **Open issues**: 379 · **Commits**: 5613
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 66 | 17 | 1 | 2 | 64 |
-| last60d | 2026-08-22 | 2 | 138 | 18 | 4 | 3 | 212 |
-| 90d | 2026-07-23 | 3 | 164 | 19 | 7 | 3 | 237 |
-| last180d | 2026-04-24 | 5 | 256 | 22 | 10 | 8 | 411 |
-| 360d | 2025-10-26 | 10 | 328 | 30 | 30 | 13 | 493 |
-| last720d | 2024-10-31 | 39 | 572 | 41 | 72 | 32 | 1127 |
+| 30d | 2026-09-22 | 1 | 72 | 9 | 1 | 2 | 77 |
+| last60d | 2026-08-23 | 2 | 146 | 10 | 4 | 3 | 225 |
+| 90d | 2026-07-24 | 3 | 171 | 11 | 7 | 3 | 250 |
+| last180d | 2026-04-25 | 5 | 267 | 14 | 10 | 8 | 424 |
+| 360d | 2025-10-27 | 10 | 337 | 22 | 30 | 13 | 506 |
+| last720d | 2024-11-01 | 39 | 583 | 33 | 72 | 32 | 1142 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:22:01Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:19:40Z._
