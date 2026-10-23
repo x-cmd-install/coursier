@@ -14,13 +14,13 @@ x install coursier
 
 ## Code insight
 
-Total: **120,265** lines of code across **928** files in the top 5 languages.
+Total: **121,285** lines of code across **935** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 87,276 | 4,690 | 13,085 | 745 |
+| Scala | 88,215 | 4,786 | 13,203 | 752 |
 | Json | 23,631 | 0 | 0 | 72 |
-| Java | 7,997 | 888 | 1,732 | 102 |
+| Java | 8,078 | 903 | 1,740 | 102 |
 | Batch | 399 | 3 | 81 | 3 |
 | JavaScript | 382 | 23 | 57 | 6 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.26` (2026-09-30)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-23
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 2,138 · **Forks**: 335 · **Open issues**: 1,208 · **Contributors**: 162
+- **Stars**: 2,139 · **Forks**: 335 · **Open issues**: 1,208 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2163 · **Open PRs**: 49 · **Closed issues**: 829 · **Open issues**: 379 · **Commits**: 5613
+- **Releases**: 211 · **Merged PRs**: 2170 · **Open PRs**: 44 · **Closed issues**: 829 · **Open issues**: 379 · **Commits**: 5620
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 72 | 9 | 1 | 2 | 77 |
-| last60d | 2026-08-23 | 2 | 146 | 10 | 4 | 3 | 225 |
-| 90d | 2026-07-24 | 3 | 171 | 11 | 7 | 3 | 250 |
-| last180d | 2026-04-25 | 5 | 267 | 14 | 10 | 8 | 424 |
-| 360d | 2025-10-27 | 10 | 337 | 22 | 30 | 13 | 506 |
-| last720d | 2024-11-01 | 39 | 583 | 33 | 72 | 32 | 1142 |
+| 30d | 2026-09-23 | 1 | 75 | 4 | 1 | 2 | 84 |
+| last60d | 2026-08-24 | 2 | 153 | 5 | 4 | 3 | 232 |
+| 90d | 2026-07-25 | 3 | 178 | 6 | 7 | 3 | 257 |
+| last180d | 2026-04-26 | 5 | 274 | 9 | 10 | 8 | 431 |
+| 360d | 2025-10-28 | 10 | 344 | 17 | 30 | 13 | 513 |
+| last720d | 2024-11-02 | 39 | 590 | 28 | 72 | 32 | 1149 |
 
 ## Release assets
 
@@ -90,6 +90,15 @@ Lowest-scoring checks:
 | [cs-x86_64-pc-win32-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-win32-sdk.zip) | 30.5 MiB | `native/win/x64` |
 | [cs-x86_64-pc-win32.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-win32.zip) | 31.4 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **53** distros on [repology.org](https://repology.org/project/coursier). **5** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.1.26` | ✅ latest |
+| Nix unstable | `2.1.26` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `coursier` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +108,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:19:40Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:21:47Z._
