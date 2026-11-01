@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 87 | 0 | 0 | 4 | 95 |
-| last60d | 2026-09-01 | 2 | 162 | 1 | 4 | 5 | 232 |
-| 90d | 2026-08-02 | 3 | 197 | 1 | 4 | 5 | 274 |
-| last180d | 2026-05-04 | 5 | 289 | 5 | 10 | 10 | 446 |
-| 360d | 2025-11-05 | 10 | 366 | 13 | 30 | 16 | 538 |
-| last720d | 2024-11-10 | 36 | 598 | 24 | 70 | 35 | 1119 |
+| 30d | 2026-10-02 | 0 | 87 | 0 | 0 | 4 | 95 |
+| last60d | 2026-09-02 | 2 | 157 | 1 | 4 | 5 | 232 |
+| 90d | 2026-08-03 | 3 | 194 | 1 | 4 | 5 | 274 |
+| last180d | 2026-05-05 | 5 | 286 | 5 | 9 | 10 | 446 |
+| 360d | 2025-11-06 | 10 | 366 | 13 | 30 | 16 | 538 |
+| last720d | 2024-11-11 | 36 | 598 | 24 | 70 | 35 | 1119 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:13:12Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:40:26Z._
