@@ -14,13 +14,13 @@ x install coursier
 
 ## Code insight
 
-Total: **121,612** lines of code across **940** files in the top 5 languages.
+Total: **120,793** lines of code across **937** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 88,542 | 4,859 | 13,256 | 757 |
+| Scala | 87,555 | 4,739 | 13,078 | 749 |
 | Json | 23,631 | 0 | 0 | 72 |
-| Java | 8,078 | 903 | 1,740 | 102 |
+| Java | 8,250 | 1,160 | 1,774 | 107 |
 | Batch | 399 | 3 | 81 | 3 |
 | JavaScript | 382 | 23 | 57 | 6 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.26` (2026-09-30)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 20
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2196 · **Open PRs**: 41 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5648
+- **Releases**: 211 · **Merged PRs**: 2201 · **Open PRs**: 40 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5661
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 87 | 1 | 1 | 2 | 93 |
-| last60d | 2026-09-04 | 2 | 151 | 2 | 5 | 4 | 199 |
-| 90d | 2026-08-05 | 2 | 194 | 2 | 5 | 4 | 268 |
-| last180d | 2026-05-07 | 5 | 285 | 6 | 10 | 9 | 423 |
-| 360d | 2025-11-08 | 10 | 367 | 14 | 31 | 15 | 540 |
-| last720d | 2024-11-13 | 36 | 595 | 25 | 71 | 34 | 1118 |
+| 30d | 2026-10-05 | 0 | 92 | 0 | 1 | 2 | 103 |
+| last60d | 2026-09-05 | 2 | 148 | 1 | 5 | 4 | 209 |
+| 90d | 2026-08-06 | 2 | 198 | 1 | 5 | 4 | 278 |
+| last180d | 2026-05-08 | 5 | 290 | 5 | 10 | 9 | 433 |
+| 360d | 2025-11-09 | 10 | 372 | 13 | 31 | 15 | 550 |
+| last720d | 2024-11-14 | 36 | 600 | 24 | 71 | 34 | 1129 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:30:33Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:57:55Z._
