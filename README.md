@@ -26,11 +26,11 @@ Total: **120,793** lines of code across **937** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 8/29 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 2/19 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2201 · **Open PRs**: 40 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5661
+- **Releases**: 211 · **Merged PRs**: 2203 · **Open PRs**: 38 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 92 | 0 | 1 | 2 | 103 |
-| last60d | 2026-09-05 | 2 | 148 | 1 | 5 | 4 | 209 |
-| 90d | 2026-08-06 | 2 | 198 | 1 | 5 | 4 | 278 |
-| last180d | 2026-05-08 | 5 | 290 | 5 | 10 | 9 | 433 |
-| 360d | 2025-11-09 | 10 | 372 | 13 | 31 | 15 | 550 |
-| last720d | 2024-11-14 | 36 | 600 | 24 | 71 | 34 | 1129 |
+| 30d | 2026-10-06 | 0 | 94 | 0 | 1 | 2 | 105 |
+| last60d | 2026-09-06 | 2 | 150 | 1 | 5 | 4 | 211 |
+| 90d | 2026-08-07 | 2 | 200 | 1 | 5 | 4 | 280 |
+| last180d | 2026-05-09 | 5 | 291 | 5 | 10 | 9 | 435 |
+| 360d | 2025-11-10 | 10 | 374 | 13 | 31 | 15 | 552 |
+| last720d | 2024-11-15 | 36 | 602 | 22 | 71 | 34 | 1131 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:57:55Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:18:16Z._
