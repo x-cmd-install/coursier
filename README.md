@@ -14,11 +14,11 @@ x install coursier
 
 ## Code insight
 
-Total: **120,793** lines of code across **937** files in the top 5 languages.
+Total: **120,755** lines of code across **937** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 87,555 | 4,739 | 13,078 | 749 |
+| Scala | 87,517 | 4,745 | 13,069 | 749 |
 | Json | 23,631 | 0 | 0 | 72 |
 | Java | 8,250 | 1,160 | 1,774 | 107 |
 | Batch | 399 | 3 | 81 | 3 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2205 · **Open PRs**: 39 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5667
+- **Releases**: 211 · **Merged PRs**: 2206 · **Open PRs**: 40 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5668
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 96 | 1 | 1 | 2 | 108 |
-| last60d | 2026-09-07 | 2 | 149 | 2 | 5 | 4 | 214 |
-| 90d | 2026-08-08 | 2 | 202 | 2 | 5 | 4 | 283 |
-| last180d | 2026-05-10 | 5 | 293 | 6 | 10 | 9 | 438 |
-| 360d | 2025-11-11 | 10 | 376 | 14 | 31 | 15 | 555 |
-| last720d | 2024-11-16 | 36 | 604 | 23 | 71 | 34 | 1135 |
+| 30d | 2026-10-08 | 0 | 94 | 2 | 1 | 2 | 109 |
+| last60d | 2026-09-08 | 2 | 145 | 3 | 5 | 3 | 215 |
+| 90d | 2026-08-09 | 2 | 203 | 3 | 5 | 4 | 284 |
+| last180d | 2026-05-11 | 5 | 294 | 7 | 10 | 9 | 439 |
+| 360d | 2025-11-12 | 10 | 377 | 15 | 31 | 15 | 556 |
+| last720d | 2024-11-17 | 36 | 605 | 24 | 71 | 34 | 1136 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:18:42Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:34:32Z._
