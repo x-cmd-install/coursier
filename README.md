@@ -30,7 +30,7 @@ Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/19 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.26` (2026-09-30)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 2,142 · **Forks**: 334 · **Open issues**: 1,214 · **Contributors**: 163
+- **Stars**: 2,143 · **Forks**: 334 · **Open issues**: 1,214 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2215 · **Open PRs**: 38 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5705
+- **Releases**: 211 · **Merged PRs**: 2217 · **Open PRs**: 39 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5707
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 100 | 1 | 1 | 2 | 125 |
-| last60d | 2026-09-11 | 2 | 145 | 2 | 5 | 3 | 206 |
-| 90d | 2026-08-12 | 2 | 211 | 2 | 5 | 4 | 314 |
-| last180d | 2026-05-14 | 4 | 299 | 5 | 9 | 8 | 451 |
-| 360d | 2025-11-15 | 10 | 386 | 13 | 31 | 15 | 580 |
-| last720d | 2024-11-20 | 35 | 613 | 22 | 71 | 34 | 1163 |
+| 30d | 2026-10-12 | 0 | 89 | 2 | 1 | 2 | 127 |
+| last60d | 2026-09-12 | 2 | 147 | 3 | 5 | 3 | 208 |
+| 90d | 2026-08-13 | 2 | 211 | 3 | 5 | 4 | 316 |
+| last180d | 2026-05-15 | 4 | 300 | 6 | 9 | 8 | 453 |
+| 360d | 2025-11-16 | 10 | 388 | 14 | 31 | 15 | 582 |
+| last720d | 2024-11-21 | 35 | 615 | 23 | 70 | 33 | 1165 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:04:27Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:41:36Z._
