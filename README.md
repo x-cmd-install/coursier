@@ -18,7 +18,7 @@ Total: **122,164** lines of code across **943** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 88,902 | 4,990 | 13,232 | 755 |
+| Scala | 88,902 | 4,992 | 13,232 | 755 |
 | Json | 23,655 | 0 | 0 | 72 |
 | Java | 8,250 | 1,161 | 1,775 | 107 |
 | Batch | 399 | 3 | 81 | 3 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.26` (2026-09-30)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 20
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2225 · **Open PRs**: 38 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5716
+- **Releases**: 211 · **Merged PRs**: 2226 · **Open PRs**: 39 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5717
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 96 | 1 | 1 | 2 | 136 |
-| last60d | 2026-09-14 | 2 | 152 | 2 | 5 | 3 | 217 |
-| 90d | 2026-08-15 | 2 | 218 | 2 | 5 | 4 | 325 |
-| last180d | 2026-05-17 | 4 | 308 | 5 | 9 | 8 | 462 |
-| 360d | 2025-11-18 | 10 | 394 | 13 | 30 | 15 | 591 |
-| last720d | 2024-11-23 | 35 | 623 | 22 | 69 | 33 | 1174 |
+| 30d | 2026-10-15 | 0 | 90 | 2 | 1 | 2 | 137 |
+| last60d | 2026-09-15 | 2 | 150 | 3 | 5 | 3 | 218 |
+| 90d | 2026-08-16 | 2 | 219 | 3 | 5 | 4 | 326 |
+| last180d | 2026-05-18 | 4 | 309 | 6 | 9 | 8 | 463 |
+| 360d | 2025-11-19 | 9 | 395 | 14 | 29 | 15 | 592 |
+| last720d | 2024-11-24 | 35 | 624 | 23 | 69 | 33 | 1175 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:30:35Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:25:20Z._
