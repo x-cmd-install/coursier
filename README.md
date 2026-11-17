@@ -14,13 +14,13 @@ x install coursier
 
 ## Code insight
 
-Total: **122,164** lines of code across **943** files in the top 5 languages.
+Total: **122,722** lines of code across **948** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 88,902 | 4,992 | 13,232 | 755 |
+| Scala | 89,376 | 5,120 | 13,301 | 758 |
 | Json | 23,655 | 0 | 0 | 72 |
-| Java | 8,250 | 1,161 | 1,775 | 107 |
+| Java | 8,334 | 1,199 | 1,793 | 109 |
 | Batch | 399 | 3 | 81 | 3 |
 | JavaScript | 382 | 23 | 57 | 6 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.26` (2026-09-30)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-16
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 2,143 · **Forks**: 334 · **Open issues**: 1,214 · **Contributors**: 163
+- **Stars**: 2,143 · **Forks**: 334 · **Open issues**: 1,215 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2226 · **Open PRs**: 44 · **Closed issues**: 830 · **Open issues**: 384 · **Commits**: 5717
+- **Releases**: 211 · **Merged PRs**: 2238 · **Open PRs**: 38 · **Closed issues**: 830 · **Open issues**: 385 · **Commits**: 5729
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 86 | 7 | 1 | 2 | 89 |
-| last60d | 2026-09-17 | 1 | 143 | 8 | 4 | 3 | 181 |
-| 90d | 2026-08-18 | 2 | 219 | 8 | 5 | 4 | 321 |
-| last180d | 2026-05-20 | 4 | 309 | 11 | 9 | 8 | 459 |
-| 360d | 2025-11-21 | 9 | 395 | 19 | 26 | 15 | 592 |
-| last720d | 2024-11-26 | 35 | 615 | 28 | 69 | 33 | 1168 |
+| 30d | 2026-10-18 | 0 | 94 | 1 | 1 | 2 | 101 |
+| last60d | 2026-09-18 | 1 | 153 | 1 | 3 | 4 | 193 |
+| 90d | 2026-08-19 | 2 | 226 | 2 | 5 | 5 | 333 |
+| last180d | 2026-05-21 | 4 | 321 | 5 | 9 | 9 | 471 |
+| 360d | 2025-11-22 | 9 | 407 | 13 | 26 | 16 | 604 |
+| last720d | 2024-11-27 | 35 | 626 | 22 | 69 | 34 | 1168 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:31:44Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:34:57Z._
