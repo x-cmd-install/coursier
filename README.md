@@ -14,23 +14,23 @@ x install coursier
 
 ## Code insight
 
-Total: **122,722** lines of code across **948** files in the top 5 languages.
+Total: **142,686** lines of code across **950** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 89,376 | 5,120 | 13,301 | 758 |
-| Json | 23,655 | 0 | 0 | 72 |
-| Java | 8,334 | 1,199 | 1,793 | 109 |
+| Scala | 89,942 | 5,233 | 13,369 | 758 |
+| Json | 42,748 | 0 | 0 | 74 |
+| Java | 8,663 | 1,342 | 1,838 | 111 |
 | Batch | 399 | 3 | 81 | 3 |
-| JavaScript | 382 | 23 | 57 | 6 |
+| JavaScript | 329 | 23 | 27 | 4 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 8/29 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.1.26` (2026-09-30)
-- **Last commit**: 2026-11-16
+- **Latest**: `v2.1.27` (2026-11-18)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 20
 
 ## Popularity
@@ -52,52 +52,52 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 2238 · **Open PRs**: 38 · **Closed issues**: 830 · **Open issues**: 385 · **Commits**: 5729
+- **Releases**: 212 · **Merged PRs**: 2249 · **Open PRs**: 40 · **Closed issues**: 830 · **Open issues**: 385 · **Commits**: 5742
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 94 | 1 | 1 | 2 | 101 |
-| last60d | 2026-09-18 | 1 | 153 | 1 | 3 | 4 | 193 |
-| 90d | 2026-08-19 | 2 | 226 | 2 | 5 | 5 | 333 |
-| last180d | 2026-05-21 | 4 | 321 | 5 | 9 | 9 | 471 |
-| 360d | 2025-11-22 | 9 | 407 | 13 | 26 | 16 | 604 |
-| last720d | 2024-11-27 | 35 | 626 | 22 | 69 | 34 | 1168 |
+| 30d | 2026-10-20 | 1 | 83 | 3 | 1 | 2 | 114 |
+| last60d | 2026-09-20 | 2 | 163 | 3 | 3 | 4 | 206 |
+| 90d | 2026-08-21 | 3 | 235 | 4 | 5 | 5 | 346 |
+| last180d | 2026-05-23 | 5 | 332 | 7 | 9 | 9 | 484 |
+| 360d | 2025-11-24 | 10 | 417 | 15 | 26 | 15 | 617 |
+| last720d | 2024-11-29 | 35 | 637 | 24 | 68 | 34 | 1173 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [coursier](https://github.com/coursier/coursier/releases/download/v2.1.26/coursier) | 227.0 KiB | `other` |
-| [coursier.bat](https://github.com/coursier/coursier/releases/download/v2.1.26/coursier.bat) | 227.0 KiB | `other` |
-| [coursier.jar](https://github.com/coursier/coursier/releases/download/v2.1.26/coursier.jar) | 52.0 MiB | `other` |
-| [cs-aarch64-apple-darwin-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-apple-darwin-sdk.zip) | 28.0 MiB | `native/darwin/arm64` |
-| [cs-aarch64-apple-darwin.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-apple-darwin.gz) | 27.9 MiB | `native/darwin/arm64` |
-| [cs-aarch64-pc-linux-container.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-pc-linux-container.gz) | 28.1 MiB | `native/linux/arm64` |
-| [cs-aarch64-pc-linux-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-pc-linux-sdk.zip) | 28.1 MiB | `native/linux/arm64` |
-| [cs-aarch64-pc-linux-static.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-pc-linux-static.gz) | 27.5 MiB | `native/linux/arm64` |
-| [cs-aarch64-pc-linux.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-pc-linux.gz) | 28.1 MiB | `native/linux/arm64` |
-| [cs-aarch64-pc-win32-jvm.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-aarch64-pc-win32-jvm.zip) | 101.5 MiB | `native/win/arm64` |
-| [cs-x86_64-apple-darwin-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-apple-darwin-sdk.zip) | 28.1 MiB | `native/darwin/x64` |
-| [cs-x86_64-apple-darwin.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-apple-darwin.gz) | 28.0 MiB | `native/darwin/x64` |
-| [cs-x86_64-pc-linux-compat.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux-compat.gz) | 28.8 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-linux-container.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux-container.gz) | 28.7 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-linux-jvm.tar.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux-jvm.tar.gz) | 104.4 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-linux-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux-sdk.zip) | 28.9 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-linux-static.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux-static.gz) | 28.1 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-linux.gz](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-linux.gz) | 28.9 MiB | `native/linux/x64` |
-| [cs-x86_64-pc-win32-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-win32-sdk.zip) | 30.5 MiB | `native/win/x64` |
-| [cs-x86_64-pc-win32.zip](https://github.com/coursier/coursier/releases/download/v2.1.26/cs-x86_64-pc-win32.zip) | 31.4 MiB | `native/win/x64` |
+| [coursier](https://github.com/coursier/coursier/releases/download/v2.1.27/coursier) | 242.7 KiB | `other` |
+| [coursier.bat](https://github.com/coursier/coursier/releases/download/v2.1.27/coursier.bat) | 242.7 KiB | `other` |
+| [coursier.jar](https://github.com/coursier/coursier/releases/download/v2.1.27/coursier.jar) | 55.2 MiB | `other` |
+| [cs-aarch64-apple-darwin-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-aarch64-apple-darwin-sdk.zip) | 27.9 MiB | `native/darwin/arm64` |
+| [cs-aarch64-apple-darwin.gz](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-aarch64-apple-darwin.gz) | 27.7 MiB | `native/darwin/arm64` |
+| [cs-aarch64-pc-linux-container.gz](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-aarch64-pc-linux-container.gz) | 27.9 MiB | `native/linux/arm64` |
+| [cs-aarch64-pc-linux-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-aarch64-pc-linux-sdk.zip) | 28.0 MiB | `native/linux/arm64` |
+| [cs-aarch64-pc-linux-static.gz](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-aarch64-pc-linux-static.gz) | 27.4 MiB | `native/linux/arm64` |
+| [cs-aarch64-pc-linux.gz](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-aarch64-pc-linux.gz) | 28.0 MiB | `native/linux/arm64` |
+| [cs-aarch64-pc-win32-jvm.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-aarch64-pc-win32-jvm.zip) | 104.9 MiB | `native/win/arm64` |
+| [cs-x86_64-apple-darwin-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-apple-darwin-sdk.zip) | 27.8 MiB | `native/darwin/x64` |
+| [cs-x86_64-apple-darwin.gz](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-apple-darwin.gz) | 27.7 MiB | `native/darwin/x64` |
+| [cs-x86_64-pc-linux-compat.gz](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-linux-compat.gz) | 28.5 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-linux-container.gz](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-linux-container.gz) | 28.6 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-linux-jvm.tar.gz](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-linux-jvm.tar.gz) | 107.6 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-linux-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-linux-sdk.zip) | 28.6 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-linux-static.gz](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-linux-static.gz) | 28.0 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-linux.gz](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-linux.gz) | 28.6 MiB | `native/linux/x64` |
+| [cs-x86_64-pc-win32-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-win32-sdk.zip) | 30.3 MiB | `native/win/x64` |
+| [cs-x86_64-pc-win32.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-win32.zip) | 31.1 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **53** distros on [repology.org](https://repology.org/project/coursier). **5** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **53** distros on [repology.org](https://repology.org/project/coursier). **3** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.1.26` | ✅ latest |
-| Nix unstable | `2.1.26` | ✅ latest |
+| Homebrew | `2.1.27` | ✅ latest |
+| Nix unstable | `2.1.26` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -108,4 +108,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:34:57Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:40:24Z._
