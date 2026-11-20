@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 2249 · **Open PRs**: 40 · **Closed issues**: 830 · **Open issues**: 385 · **Commits**: 5742
+- **Releases**: 212 · **Merged PRs**: 2253 · **Open PRs**: 39 · **Closed issues**: 830 · **Open issues**: 385 · **Commits**: 5749
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 83 | 3 | 1 | 2 | 114 |
-| last60d | 2026-09-20 | 2 | 163 | 3 | 3 | 4 | 206 |
-| 90d | 2026-08-21 | 3 | 235 | 4 | 5 | 5 | 346 |
-| last180d | 2026-05-23 | 5 | 332 | 7 | 9 | 9 | 484 |
-| 360d | 2025-11-24 | 10 | 417 | 15 | 26 | 15 | 617 |
-| last720d | 2024-11-29 | 35 | 637 | 24 | 68 | 34 | 1173 |
+| 30d | 2026-10-21 | 1 | 81 | 2 | 1 | 2 | 121 |
+| last60d | 2026-09-21 | 2 | 167 | 2 | 2 | 4 | 213 |
+| 90d | 2026-08-22 | 3 | 239 | 3 | 5 | 5 | 353 |
+| last180d | 2026-05-24 | 5 | 336 | 6 | 9 | 9 | 491 |
+| 360d | 2025-11-25 | 10 | 421 | 14 | 26 | 15 | 624 |
+| last720d | 2024-11-30 | 35 | 640 | 23 | 67 | 34 | 1180 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:40:24Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:05:31Z._
