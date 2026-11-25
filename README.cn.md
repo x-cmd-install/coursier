@@ -26,13 +26,13 @@ x install coursier
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.6 / 10**
+总评分: **4.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 8/29 approved changesets -- score normalized to 2
+- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install coursier
 ## 发布
 
 - **最新版本**: `v2.1.27` (2026-11-18)
-- **最近提交**: 2026-11-23
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 20 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install coursier
 
 ## 累计统计
 
-- **发布数**: 212 · **已合并 PR**: 2262 · **开放 PR**: 40 · **已关闭 issue**: 830 · **开放 issue**: 385 · **提交数**: 5761
+- **发布数**: 212 · **已合并 PR**: 2264 · **开放 PR**: 41 · **已关闭 issue**: 830 · **开放 issue**: 385 · **提交数**: 5763
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 86 | 3 | 1 | 2 | 109 |
-| last60d | 2026-09-25 | 2 | 166 | 3 | 2 | 4 | 213 |
-| 90d | 2026-08-26 | 3 | 244 | 4 | 5 | 5 | 344 |
-| last180d | 2026-05-28 | 5 | 339 | 7 | 9 | 9 | 497 |
-| 360d | 2025-11-29 | 10 | 430 | 15 | 26 | 15 | 633 |
-| last720d | 2024-12-04 | 35 | 648 | 24 | 65 | 34 | 1192 |
+| 30d | 2026-10-26 | 1 | 86 | 4 | 1 | 2 | 111 |
+| last60d | 2026-09-26 | 2 | 168 | 4 | 2 | 4 | 215 |
+| 90d | 2026-08-27 | 3 | 241 | 5 | 5 | 5 | 346 |
+| last180d | 2026-05-29 | 5 | 341 | 8 | 9 | 9 | 499 |
+| 360d | 2025-11-30 | 10 | 432 | 16 | 26 | 15 | 635 |
+| last720d | 2024-12-05 | 35 | 646 | 25 | 64 | 34 | 1188 |
 
 ## Release 资产
 
@@ -90,15 +90,6 @@ x install coursier
 | [cs-x86_64-pc-win32-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-win32-sdk.zip) | 30.3 MiB | `native/win/x64` |
 | [cs-x86_64-pc-win32.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-win32.zip) | 31.1 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/coursier) 上共有 **53** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.1.27` | ✅ latest |
-| Nix unstable | `2.1.26` | ⚠️ outdated |
-
 ## 改进这些数据
 
 coursier 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `coursier` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -108,4 +99,4 @@ coursier 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:22:11Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:09:53Z._

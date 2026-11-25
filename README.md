@@ -26,13 +26,13 @@ Total: **142,735** lines of code across **951** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 8/29 approved changesets -- score normalized to 2
+- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.27` (2026-11-18)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 20
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 2262 · **Open PRs**: 40 · **Closed issues**: 830 · **Open issues**: 385 · **Commits**: 5761
+- **Releases**: 212 · **Merged PRs**: 2264 · **Open PRs**: 41 · **Closed issues**: 830 · **Open issues**: 385 · **Commits**: 5763
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 86 | 3 | 1 | 2 | 109 |
-| last60d | 2026-09-25 | 2 | 166 | 3 | 2 | 4 | 213 |
-| 90d | 2026-08-26 | 3 | 244 | 4 | 5 | 5 | 344 |
-| last180d | 2026-05-28 | 5 | 339 | 7 | 9 | 9 | 497 |
-| 360d | 2025-11-29 | 10 | 430 | 15 | 26 | 15 | 633 |
-| last720d | 2024-12-04 | 35 | 648 | 24 | 65 | 34 | 1192 |
+| 30d | 2026-10-26 | 1 | 86 | 4 | 1 | 2 | 111 |
+| last60d | 2026-09-26 | 2 | 168 | 4 | 2 | 4 | 215 |
+| 90d | 2026-08-27 | 3 | 241 | 5 | 5 | 5 | 346 |
+| last180d | 2026-05-29 | 5 | 341 | 8 | 9 | 9 | 499 |
+| 360d | 2025-11-30 | 10 | 432 | 16 | 26 | 15 | 635 |
+| last720d | 2024-12-05 | 35 | 646 | 25 | 64 | 34 | 1188 |
 
 ## Release assets
 
@@ -90,15 +90,6 @@ Lowest-scoring checks:
 | [cs-x86_64-pc-win32-sdk.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-win32-sdk.zip) | 30.3 MiB | `native/win/x64` |
 | [cs-x86_64-pc-win32.zip](https://github.com/coursier/coursier/releases/download/v2.1.27/cs-x86_64-pc-win32.zip) | 31.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **53** distros on [repology.org](https://repology.org/project/coursier). **3** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.1.27` | ✅ latest |
-| Nix unstable | `2.1.26` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `coursier` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -108,4 +99,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:22:10Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:09:52Z._
