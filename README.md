@@ -14,11 +14,11 @@ x install coursier
 
 ## Code insight
 
-Total: **142,734** lines of code across **951** files in the top 5 languages.
+Total: **142,541** lines of code across **952** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 90,023 | 5,254 | 13,372 | 758 |
+| Scala | 89,830 | 5,258 | 13,332 | 759 |
 | Json | 42,767 | 0 | 0 | 74 |
 | Java | 8,693 | 1,359 | 1,849 | 112 |
 | Batch | 399 | 3 | 81 | 3 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.27` (2026-11-18)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 2,143 · **Forks**: 335 · **Open issues**: 1,215 · **Contributors**: 162
+- **Stars**: 2,143 · **Forks**: 335 · **Open issues**: 1,216 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 2266 · **Open PRs**: 43 · **Closed issues**: 830 · **Open issues**: 385 · **Commits**: 5765
+- **Releases**: 212 · **Merged PRs**: 2268 · **Open PRs**: 41 · **Closed issues**: 830 · **Open issues**: 386 · **Commits**: 5769
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 86 | 7 | 1 | 2 | 113 |
-| last60d | 2026-09-27 | 2 | 170 | 7 | 2 | 4 | 217 |
-| 90d | 2026-08-28 | 3 | 241 | 8 | 5 | 5 | 348 |
-| last180d | 2026-05-30 | 5 | 343 | 10 | 9 | 9 | 501 |
-| 360d | 2025-12-01 | 10 | 432 | 18 | 25 | 15 | 637 |
-| last720d | 2024-12-06 | 34 | 648 | 27 | 64 | 34 | 1178 |
+| 30d | 2026-10-28 | 1 | 81 | 6 | 1 | 3 | 116 |
+| last60d | 2026-09-28 | 2 | 172 | 6 | 1 | 5 | 220 |
+| 90d | 2026-08-29 | 3 | 242 | 7 | 5 | 6 | 351 |
+| last180d | 2026-05-31 | 5 | 345 | 9 | 9 | 10 | 504 |
+| 360d | 2025-12-02 | 10 | 433 | 17 | 25 | 16 | 640 |
+| last720d | 2024-12-07 | 34 | 650 | 25 | 64 | 35 | 1182 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:37:53Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:51:54Z._
