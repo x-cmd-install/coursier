@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.27` (2026-11-18)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 2,143 · **Forks**: 335 · **Open issues**: 1,216 · **Contributors**: 162
+- **Stars**: 2,142 · **Forks**: 335 · **Open issues**: 1,216 · **Contributors**: 162
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 2268 · **Open PRs**: 41 · **Closed issues**: 830 · **Open issues**: 386 · **Commits**: 5769
+- **Releases**: 212 · **Merged PRs**: 2271 · **Open PRs**: 42 · **Closed issues**: 830 · **Open issues**: 386 · **Commits**: 5772
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 81 | 6 | 1 | 3 | 116 |
-| last60d | 2026-09-28 | 2 | 172 | 6 | 1 | 5 | 220 |
-| 90d | 2026-08-29 | 3 | 242 | 7 | 5 | 6 | 351 |
-| last180d | 2026-05-31 | 5 | 345 | 9 | 9 | 10 | 504 |
-| 360d | 2025-12-02 | 10 | 433 | 17 | 25 | 16 | 640 |
-| last720d | 2024-12-07 | 34 | 650 | 25 | 64 | 35 | 1182 |
+| 30d | 2026-10-29 | 1 | 77 | 7 | 1 | 3 | 119 |
+| last60d | 2026-09-29 | 2 | 172 | 7 | 1 | 5 | 223 |
+| 90d | 2026-08-30 | 3 | 242 | 8 | 5 | 6 | 354 |
+| last180d | 2026-06-01 | 5 | 348 | 10 | 9 | 10 | 507 |
+| 360d | 2025-12-03 | 10 | 436 | 18 | 25 | 16 | 643 |
+| last720d | 2024-12-08 | 34 | 653 | 26 | 64 | 35 | 1185 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for coursier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:51:54Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:52:40Z._
